@@ -1,0 +1,17 @@
+{
+    "name": "chatapp",
+    "version": "1.0.0",
+    "description": "Simple chat app",
+    "main": "server.js",
+    "scripts": {
+        "dev": "nodemon server.js"
+    },
+    "author": "Salu",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.4",
+        "nodemo": "^1.0.0",
+        "nodemon": "^2.0.7",
+        "socket.io": "*"
+    }
+}
